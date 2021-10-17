@@ -5,3 +5,5 @@ This is an example project based on [Traversy Media](https://www.youtube.com/cha
 I'm doing this project to familiarize myself with Flutter's codebase and functionality to ready myself for developing my startup, [Ugeddit](https://www.ugeddit.com/)'s digital communities app.
 
 I have some long-time-ago (6-8+ years ago) experience with C languages, Java, and VB, but very limited experience with JS languages, and **no prior experience with Flutter**.
+
+Let's do this.
